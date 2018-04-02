@@ -1,0 +1,12 @@
+/home/jimang/appnetcore2/webapp
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=webapp
+--content-root=/home/jimang/appnetcore2/webapp
+--file=/home/jimang/appnetcore2/webapp/Views/Home/About.cshtml
+--file=/home/jimang/appnetcore2/webapp/Views/Home/Contact.cshtml
+--file=/home/jimang/appnetcore2/webapp/Views/Home/Index.cshtml
+--file=/home/jimang/appnetcore2/webapp/Views/Shared/Error.cshtml
+--file=/home/jimang/appnetcore2/webapp/Views/Shared/_Layout.cshtml
+--file=/home/jimang/appnetcore2/webapp/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/home/jimang/appnetcore2/webapp/Views/_ViewImports.cshtml
+--file=/home/jimang/appnetcore2/webapp/Views/_ViewStart.cshtml

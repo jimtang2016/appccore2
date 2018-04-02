@@ -1,0 +1,8 @@
+/home/jimang/appnetcore2/Services/bin/Debug/netstandard2.0/Services.deps.json
+/home/jimang/appnetcore2/Services/bin/Debug/netstandard2.0/Services.dll
+/home/jimang/appnetcore2/Services/bin/Debug/netstandard2.0/Services.pdb
+/home/jimang/appnetcore2/Services/obj/Debug/netstandard2.0/Services.csproj.CoreCompileInputs.cache
+/home/jimang/appnetcore2/Services/obj/Debug/netstandard2.0/Services.AssemblyInfoInputs.cache
+/home/jimang/appnetcore2/Services/obj/Debug/netstandard2.0/Services.AssemblyInfo.cs
+/home/jimang/appnetcore2/Services/obj/Debug/netstandard2.0/Services.dll
+/home/jimang/appnetcore2/Services/obj/Debug/netstandard2.0/Services.pdb

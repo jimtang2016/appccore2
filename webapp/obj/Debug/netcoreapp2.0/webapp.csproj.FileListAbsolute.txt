@@ -1,0 +1,10 @@
+/home/jimang/appnetcore2/webapp/bin/Debug/netcoreapp2.0/webapp.deps.json
+/home/jimang/appnetcore2/webapp/bin/Debug/netcoreapp2.0/webapp.runtimeconfig.json
+/home/jimang/appnetcore2/webapp/bin/Debug/netcoreapp2.0/webapp.runtimeconfig.dev.json
+/home/jimang/appnetcore2/webapp/bin/Debug/netcoreapp2.0/webapp.dll
+/home/jimang/appnetcore2/webapp/bin/Debug/netcoreapp2.0/webapp.pdb
+/home/jimang/appnetcore2/webapp/obj/Debug/netcoreapp2.0/webapp.csproj.CoreCompileInputs.cache
+/home/jimang/appnetcore2/webapp/obj/Debug/netcoreapp2.0/webapp.AssemblyInfoInputs.cache
+/home/jimang/appnetcore2/webapp/obj/Debug/netcoreapp2.0/webapp.AssemblyInfo.cs
+/home/jimang/appnetcore2/webapp/obj/Debug/netcoreapp2.0/webapp.dll
+/home/jimang/appnetcore2/webapp/obj/Debug/netcoreapp2.0/webapp.pdb
