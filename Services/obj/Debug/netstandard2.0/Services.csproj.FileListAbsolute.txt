@@ -6,3 +6,12 @@
 /home/jimang/appnetcore2/Services/obj/Debug/netstandard2.0/Services.AssemblyInfo.cs
 /home/jimang/appnetcore2/Services/obj/Debug/netstandard2.0/Services.dll
 /home/jimang/appnetcore2/Services/obj/Debug/netstandard2.0/Services.pdb
+C:\GitHub\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\GitHub\Services\bin\Debug\netstandard2.0\Services.dll
+C:\GitHub\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\GitHub\Services\obj\Debug\netstandard2.0\Services.csprojResolveAssemblyReference.cache
+C:\GitHub\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+C:\GitHub\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\GitHub\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\GitHub\Services\obj\Debug\netstandard2.0\Services.dll
+C:\GitHub\Services\obj\Debug\netstandard2.0\Services.pdb

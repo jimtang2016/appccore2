@@ -8,3 +8,17 @@
 /home/jimang/appnetcore2/webapp/obj/Debug/netcoreapp2.0/webapp.AssemblyInfo.cs
 /home/jimang/appnetcore2/webapp/obj/Debug/netcoreapp2.0/webapp.dll
 /home/jimang/appnetcore2/webapp/obj/Debug/netcoreapp2.0/webapp.pdb
+C:\GitHub\webapp\bin\Debug\netcoreapp2.0\webapp.deps.json
+C:\GitHub\webapp\bin\Debug\netcoreapp2.0\webapp.runtimeconfig.json
+C:\GitHub\webapp\bin\Debug\netcoreapp2.0\webapp.runtimeconfig.dev.json
+C:\GitHub\webapp\bin\Debug\netcoreapp2.0\webapp.dll
+C:\GitHub\webapp\bin\Debug\netcoreapp2.0\webapp.pdb
+C:\GitHub\webapp\bin\Debug\netcoreapp2.0\Services.dll
+C:\GitHub\webapp\bin\Debug\netcoreapp2.0\Services.pdb
+C:\GitHub\webapp\obj\Debug\netcoreapp2.0\webapp.csprojResolveAssemblyReference.cache
+C:\GitHub\webapp\obj\Debug\netcoreapp2.0\webapp.csproj.CoreCompileInputs.cache
+C:\GitHub\webapp\obj\Debug\netcoreapp2.0\webapp.AssemblyInfoInputs.cache
+C:\GitHub\webapp\obj\Debug\netcoreapp2.0\webapp.AssemblyInfo.cs
+C:\GitHub\webapp\obj\Debug\netcoreapp2.0\webapp.csproj.CopyComplete
+C:\GitHub\webapp\obj\Debug\netcoreapp2.0\webapp.dll
+C:\GitHub\webapp\obj\Debug\netcoreapp2.0\webapp.pdb
